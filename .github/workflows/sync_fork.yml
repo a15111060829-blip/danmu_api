@@ -42,3 +42,5 @@ jobs:
                   echo "3. Network issues"
                   echo "Please check the logs and consider manual sync if needed."
                   exit 1
+
+                  
